@@ -47,7 +47,7 @@ int main() {
 			}
 		}
 		else if (s == "size") {
-			cout << D.size << "\n";
+			cout << D.size() << "\n";
 		}
 		else if (s == "empty") {
 			cout << D.empty() << "\n";
